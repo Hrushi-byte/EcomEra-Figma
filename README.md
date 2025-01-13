@@ -1,2 +1,1 @@
-# Hrushi
-all projects
+FIGMA
